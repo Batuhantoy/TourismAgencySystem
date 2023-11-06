@@ -18,12 +18,12 @@ https://www.loom.com/share/312f07ef65134fba9fa9aeb71fc33920?sid=c2ea3347-27e0-47
 
 ## Uygulama Yapısı
 
-![](/ss1.png)
+![](../ss/ss1.png)
 
 Bu uygulamada Business,Data Access ve Presentation katmanlarımız var. Her bir katmanı kısaca inceleyecek olursak;
 
 
-![](./ss/ss2.png)
+![](../ss/ss2.png)
 
 Business katmanımız Veritabanı işlemlerimiz ve kullanıcı ekranlarımız arasındaki alıcıdır. İş kuralları bu katmanda uygulanır.
 
