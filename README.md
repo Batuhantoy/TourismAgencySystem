@@ -28,7 +28,7 @@ Bu uygulamada Business,Data Access ve Presentation katmanlarımız var. Her bir 
 Business katmanımız Veritabanı işlemlerimiz ve kullanıcı ekranlarımız arasındaki alıcıdır. İş kuralları bu katmanda uygulanır.
 
 
-![](./ss/ss3.png)
+![](ss/ss3.png)
 
 Core paketini uygulamamızdaki yardımcı bir sınıf olarak tanımlayabiliriz.
 
